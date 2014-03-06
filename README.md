@@ -27,6 +27,7 @@ Included Packages
 	* appcache
 	* browser-policy
 	* spiderable
+	* iron-router
 	
 	*** see docs.meteor.com for more info on these packages; the spiderable package [currently] requires PhantomJS.
 
