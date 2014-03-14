@@ -1,1 +1,7 @@
-/* code your publishers and RPCs here */
+Meteor.publish('allStuff', function () {
+	return Stuff.find();
+});
+
+Meteor.startup(function () {
+	// ...
+});

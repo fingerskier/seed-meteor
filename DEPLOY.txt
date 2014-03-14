@@ -1,0 +1,17 @@
+Get linux server (digitalocean.com)
+
+Ubuntu Deployment Instructions:
+apt-get install mongodb
+apt-get install software-properties-common
+add-apt-repository ppa:chris-lea/node.js-legacy
+apt-get-update
+apt-get install nodejs
+apt-get install npm
+
+wget http://install.meteor.com
+
+zip the meteor app and copy to Dropbox public
+wget [Dropbox-public-link]
+unzip
+meteor package
+install meteor package

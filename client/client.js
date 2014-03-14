@@ -1,1 +1,1 @@
-/* code your subscribers and session here */
+Meteor.subscribe('stuff');
