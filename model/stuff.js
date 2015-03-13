@@ -1,5 +1,3 @@
-Stuff = new Meteor.Collection('stuff');
-
 // Publisher is instantiated in server/server.js
 
 Stuff.allow({
