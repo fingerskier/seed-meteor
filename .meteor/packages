@@ -6,3 +6,14 @@
 
 meteor-platform
 insecure
+<<<<<<< HEAD
+=======
+preserve-inputs
+stylus
+accounts-base
+accounts-password
+accounts-ui-unstyled
+appcache
+browser-policy
+spiderable
+>>>>>>> origin/master
